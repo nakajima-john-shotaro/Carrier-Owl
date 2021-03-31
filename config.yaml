@@ -3,9 +3,16 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
+        kaggle: 1
+        GAN : 1
+        resnet: 1
         anomaly detection: 1
+        transformar: 1
+        vision transformar: 1
+        random network: 1
+        U-Net: 1
+        Pix2Pix: 1
+        blender: 1
 
 # 通知の閾値
 score_threshold: 0
