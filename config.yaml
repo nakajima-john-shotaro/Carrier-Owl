@@ -13,6 +13,6 @@ keywords:
         U-Net: 1
         Pix2Pix: 1
         blender: 1
-
+        multi stereo view: 1
 # 通知の閾値
 score_threshold: 0
